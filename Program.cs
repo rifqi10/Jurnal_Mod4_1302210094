@@ -63,6 +63,7 @@ public class Program
         Console.WriteLine($"| Semangka\t\t| {kode.getKodeBuah("Semangka")}\t|");
 
         Console.WriteLine("--------------------------------------");
+
     }
 }
     

@@ -1,0 +1,15 @@
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.csproj.AssemblyReference.cache
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.AssemblyInfoInputs.cache
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.AssemblyInfo.cs
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.csproj.CoreCompileInputs.cache
+D:\Jurnal_Mod4_1302210094\bin\Debug\net6.0\Jurnal_Mod4_1302210094.exe
+D:\Jurnal_Mod4_1302210094\bin\Debug\net6.0\Jurnal_Mod4_1302210094.deps.json
+D:\Jurnal_Mod4_1302210094\bin\Debug\net6.0\Jurnal_Mod4_1302210094.runtimeconfig.json
+D:\Jurnal_Mod4_1302210094\bin\Debug\net6.0\Jurnal_Mod4_1302210094.dll
+D:\Jurnal_Mod4_1302210094\bin\Debug\net6.0\Jurnal_Mod4_1302210094.pdb
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.dll
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\refint\Jurnal_Mod4_1302210094.dll
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.pdb
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\Jurnal_Mod4_1302210094.genruntimeconfig.cache
+D:\Jurnal_Mod4_1302210094\obj\Debug\net6.0\ref\Jurnal_Mod4_1302210094.dll

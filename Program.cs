@@ -38,12 +38,43 @@
     }
 }
 
+public class PosisiKarakterGame 
+{
+    public enum State {Berdiri, Terbang, Jongkok, Tengkurap}
+    private State stt = State.Berdiri;
+
+    public void posisi() 
+    {
+        switch (stt)
+        {
+            case State.Terbang:
+                stt = State.Berdiri ;
+                Console.WriteLine("posisi terbang");
+                break;
+            case State.Jongkok:
+                stt = State.Tengkurap;
+                Console.WriteLine("Posisi standby");
+                break;
+            case State.Tengkurap:
+                stt = State.Terbang;
+                Console.WriteLine("posisi tidur");
+                break;
+            case State.Berdiri:
+                stt = State.Jongkok;
+                Console.WriteLine("Posisi jongkok");
+                break;
+        }
+    }
+}
+
+
 public class Program 
 {
     static void Main()
     {
         KodeBuah kode = new KodeBuah();
 
+        Console.WriteLine("--------------------------------------");
         Console.WriteLine("| Nama Buah\t\t| Kode Buah |");
         Console.WriteLine("--------------------------------------");
 
@@ -63,6 +94,13 @@ public class Program
         Console.WriteLine($"| Semangka\t\t| {kode.getKodeBuah("Semangka")}\t|");
 
         Console.WriteLine("--------------------------------------");
+
+        PosisiKarakterGame A = new PosisiKarakterGame();
+
+        A.posisi();
+        A.posisi();
+        A.posisi();
+        A.posisi();
 
     }
 }
